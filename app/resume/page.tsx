@@ -167,7 +167,7 @@ export default function Resume() {
                     </div>
                     <div className="p-4">
                       <p className="text-gray-600 mb-4">Dasturchilar, UX/UI dizaynerlar, IT menejerlari uchun maxsus tayyorlangan rezyume namunalari</p>
-                      <button className="text-blue-600 font-medium hover:underline">Yuklab olish</button>
+                      <a href="/downloads/it-resume-template.pdf" className="text-blue-600 font-medium hover:underline">Yuklab olish</a>
                     </div>
                   </div>
 
@@ -186,7 +186,7 @@ export default function Resume() {
                     </div>
                     <div className="p-4">
                       <p className="text-gray-600 mb-4">Marketing, moliya, buxgalteriya va boshqaruv sohasidagi mutaxassislar uchun rezyume namunalari</p>
-                      <button className="text-blue-600 font-medium hover:underline">Yuklab olish</button>
+                      <a href="/downloads/business-resume-template.pdf" className="text-blue-600 font-medium hover:underline">Yuklab olish</a>
                     </div>
                   </div>
 
@@ -205,7 +205,7 @@ export default function Resume() {
                     </div>
                     <div className="p-4">
                       <p className="text-gray-600 mb-4">Dizaynerlar, media mutaxassislari, ijodiy kasb egalari uchun ajralib turadigan rezyume namunalari</p>
-                      <button className="text-blue-600 font-medium hover:underline">Yuklab olish</button>
+                      <a href="/downloads/creative-resume-template.pdf" className="text-blue-600 font-medium hover:underline">Yuklab olish</a>
                     </div>
                   </div>
                 </div>
@@ -393,12 +393,12 @@ export default function Resume() {
                 mutaxassislar bilan bog'laning. Individuallashtiririlgan xizmatlarimiz orqali orzuingizdagi ishni topishga yordam beramiz.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <button className="bg-white hover:bg-gray-100 text-blue-600 font-medium px-6 py-3 rounded-md transition-colors">
+                <a href="/consultation" className="bg-white hover:bg-gray-100 text-blue-600 font-medium px-6 py-3 rounded-md transition-colors text-center">
                   Maslahat olish
-                </button>
-                <button className="bg-blue-700 hover:bg-blue-800 text-white font-medium px-6 py-3 rounded-md transition-colors">
+                </a>
+                <a href="/resume-templates" className="bg-blue-700 hover:bg-blue-800 text-white font-medium px-6 py-3 rounded-md transition-colors text-center">
                   Rezyume shablonlarini ko'rish
-                </button>
+                </a>
               </div>
             </div>
           </div>

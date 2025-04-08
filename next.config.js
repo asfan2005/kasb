@@ -7,6 +7,9 @@ const nextConfig = {
       'images.unsplash.com', 
       'yuz.uz', 
       'assets.aceternity.com',
+      'cdn.pixabay.com',
+      'assets.mixkit.co',
+      'www.youtube.com',
     ],
   },
 }

@@ -18,7 +18,7 @@ export function FeaturesSectionWithHoverEffects() {
         "Web va mobil ilovalar uchun dasturlar yaratish bo'yicha mutaxassis. O'zbekistonda o'rtacha oylik maosh: 10-25 million so'm.",
       icon: <IconCode size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/itdasturchi",
     },
     {
       title: "Marketing mutaxassisi",
@@ -26,7 +26,7 @@ export function FeaturesSectionWithHoverEffects() {
         "Raqamli marketing va ijtimoiy tarmoq strategiyasini ishlab chiqish, mahsulotlarni targ'ib qilish uchun mutaxassis.",
       icon: <IconWorldWww size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/marketingmutaxassisi",
     },
     {
       title: "Moliya va bank ishi",
@@ -34,7 +34,7 @@ export function FeaturesSectionWithHoverEffects() {
         "Moliyaviy tahlil, investitsiya loyihalarini boshqarish va yuqori daromadli bank xodimlari ishi.",
       icon: <IconBuildingBank size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/moliya-va-bank-ish",
     },
     {
       title: "Ta'lim sohasi",
@@ -42,7 +42,7 @@ export function FeaturesSectionWithHoverEffects() {
         "O'qituvchi, o'quv dasturlarini ishlab chiqish va pedagogika sohasidagi kasblar.",
       icon: <IconSchool size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/ta-lim-sohasi",
     },
     {
       title: "Dizayn sohasida",
@@ -50,7 +50,7 @@ export function FeaturesSectionWithHoverEffects() {
         "Grafik dizayn, UX/UI dizayn, mahsulot dizayni va brendlash bo'yicha mutaxassislar.",
       icon: <IconBrush size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/dizayn-sohasida",
     },
     {
       title: "Tibbiyot sohasida",
@@ -58,7 +58,7 @@ export function FeaturesSectionWithHoverEffects() {
         "Shifokorlar, hamshiralar va boshqa tibbiyot mutaxassislari. Xususiy klinikalarda yuqori maosh.",
       icon: <IconHeartHandshake size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/tibbiyot-sohasida",
     },
     {
       title: "IT menejment",
@@ -66,7 +66,7 @@ export function FeaturesSectionWithHoverEffects() {
         "IT loyihalarni boshqarish, jamoani rivojlantirish va texnologik strategiyalar ishlab chiqish.",
       icon: <IconDeviceLaptop size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/it-menejment",
     },
     {
       title: "Biznes maslahatchi",
@@ -74,7 +74,7 @@ export function FeaturesSectionWithHoverEffects() {
         "Biznes strategiyalar bo'yicha maslahat berish, kompaniyalar uchun tahlillar o'tkazish va biznes rivojlantirish.",
       icon: <IconBriefcase size={24} />,
       buttonText: "Batafsil ma'lumot",
-      buttonLink: "#",
+      buttonLink: "/biznes-maslahatchi",
     },
   ];
   return (
